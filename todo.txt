@@ -1,0 +1,13 @@
+Get produce data:
+-scrape data to get seasonal listings (Jan-Dec) for all 50 states in US
+
+Get user location:
+-user clicks location on map
+  -> populate longitude/latitude fields
+      *cis 350 strategy: put person in state (or does Google maps API do this?)
+-Dropdown to select state in US
+-also let them select month? (Jan-Dec)
+
+Show data:
+-list what's in season during current month
+-Underneath, list what's in season other months of year
